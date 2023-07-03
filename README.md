@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 我目前的工作与生活环境都是 Arch linux + KDE，它是我的学长 Rx 推荐给我的，我很喜欢，但是我拒绝参加任何关于操作系统的口水战，"No best, just adjust." 
 
+我的编辑器是 vscode，它很顺手。
+
 我的博客使用 Github Pages + Hugo + 个人域名 搭建，你可以在 https://blog.littflower.top 访问它。
 
 ### :blue_book: 学习
@@ -71,3 +73,5 @@ Here are some ideas to get you started:
 我乐于回答任何问题，前提是你已经仔细阅读过《提问的智慧》，我不反感白痴，因为我自己也是白痴。
 
 我的邮箱：xzy1476569428@163.com
+
+欢迎您的访问。
