@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### :computer: 工作
 
-我目前的工作与生活环境都是 Arch linux + KDE，它是学长 Rx 推荐的，我很喜欢，但是我拒绝参加任何关于操作系统的口水战，"No best, just adjust." 
+我目前的工作与生活环境都是 Arch linux + KDE with wayland，它是学长 Rx 推荐的，我很喜欢，但是我拒绝参加任何关于操作系统的口水战，"No best, just adjust." 
 
 编辑器是 vscode，它很顺手。
 
